@@ -38,8 +38,13 @@ python aditya_ai.py
 
 
 💻💻💻💻💻💻👍👍EXAMPLE - Wikipedia elon mask
+          
+
           Wikipedia html
+          
           Wikipedia wifi
+          
           time
+          
           date 
           ______________
