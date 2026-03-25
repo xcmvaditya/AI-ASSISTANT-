@@ -18,3 +18,13 @@ chmod +x aditya_ai.py
 
 # Run the assistant
 python aditya_ai.py
+
+
+
+
+EXAMPLE - Wikipedia elon mask
+          Wikipedia html
+          Wikipedia wifi
+          time
+          date 
+          ______________
